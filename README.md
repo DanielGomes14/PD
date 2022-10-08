@@ -1,2 +1,0 @@
-# PD
-Dissertation Preparation
