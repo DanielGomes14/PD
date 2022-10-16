@@ -10,7 +10,7 @@
 
 
 
-### Semana 3 - 14 de Outubro
+#### Semana 3 - 14 de Outubro
 
 - Refactor de Diversos Serviços do NetOr, de forma a possibilitiar a implementação de novas featurs de forma sustentavel
 - Procura e Leitura de mais artigos relacionados com orquestração multi-dominio, como por exemplo  *Hierarchical Distributed Overarching*
