@@ -17,3 +17,16 @@
   *Architecture of Decoupled Federation and Orchestration Frameworks for Multidomain NFV MANOs*
 - Pesquisa sobre standard 3GPP TS28.530 SA5 https://www.3gpp.org/news-events/3gpp-news/sa5-5g
 
+#### Semana 4 - 21 de Outubro
+
+- Conclusão do refactor Base ao Netor
+- Começo da escrita de testes no módulo Domain
+
+#### Semana 5 - 28 de Outubro
+
+- Após alguma investigação a decisão de colocar o IDP como o KeyStone foi alterada devido a problemas relacionados com deprecation na sua implementação assim como suporte. Assim o IDP decidido e implementado foi o **KeyCloak**
+
+- Continuação da escrita de testes unitários de integração
+
+  
+
