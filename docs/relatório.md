@@ -30,3 +30,14 @@
 
   
 
+#### Semana 6 -  4 de Novembro
+
+- Novas funcionalidades como a execução de day-2 operations via NetOr
+-  Novos testes unitários ao modulo Coordinator
+- Corrigidos alguns problemas de infraestrutura relacionados com o OSM, que é utilizado como NFVO(Network Function Virtualization Orchestrator) do NetOr
+
+#### Semana 7 - 11 de Novembro
+
+- Continuação da escrita da tese ( Background Concepts como Traditional Networks, SDN&NFV)
+- Preparação do Netor para um cenário de produção no projeto 5GASP juntamente com OdinS
+
