@@ -41,3 +41,36 @@
 - Continuação da escrita da tese ( Background Concepts como Traditional Networks, SDN&NFV)
 - Preparação do Netor para um cenário de produção no projeto 5GASP juntamente com OdinS
 
+### Semana 8 - 18 de Novembro
+
+- Cenário de Produção do Netor com OdinS e Universidade de Patras em progresso
+- Escrita de tese (5G, Network Slicing)
+- Investigação de como gestão de SLAs podem ser efetuada no NetOr
+
+###  Semana 9 -  25 de Novembro
+
+- Cenário de Produção do Netor com Patras e OdinS concluído
+- Escrita de tese (ETSI NFV Architecture e soluções MANO)
+- Gestão de SLAs não será feita. Para fornecer resiliência e performance, o NetOr terá monotorização ativa da rede mesh dos peers, ajustando as rotas de forma a obter o melhor desempenho
+
+### Semana 10 -  2 de Dezembro
+
+- Preparação  e começo para a escrita de um paper no ambito da tese e do projeto 5GASP : "5GASP's Mesh VPN as a Service "
+
+### Semana 11 - 9 de Dezembro 
+
+	- Continuação da escrita do Paper mencionado acima
+	- Escrita de tese (Vertical Service Orchestrators)
+
+### Semana 12 - 16 de Dezembro
+
+- Escrita de tese (conclusão do tópico dos Vertical Service Orchestrators)
+- Recolha de resultados para o paper mencionado acima
+
+### Semana 13 - 23 de Dezembro
+
+	- Escrita da secção de resultados para o paper
+	- Escrita da secção de Service Discovery na tese
+
+
+
