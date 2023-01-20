@@ -59,8 +59,8 @@
 
 ### Semana 11 - 9 de Dezembro 
 
-	- Continuação da escrita do Paper mencionado acima
-	- Escrita de tese (Vertical Service Orchestrators)
+- Continuação da escrita do Paper mencionado acima
+- Escrita de tese (Vertical Service Orchestrators)
 
 ### Semana 12 - 16 de Dezembro
 
@@ -69,8 +69,20 @@
 
 ### Semana 13 - 23 de Dezembro
 
-	- Escrita da secção de resultados para o paper
-	- Escrita da secção de Service Discovery na tese
+- Escrita da secção de resultados para o paper
 
+- Escrita da secção de Service Discovery na tese
 
+### Semana 14 - 30 de Dezembro
 
+- Investigação sobre monitorização
+- Investigação da proposta de framework da ETSI sobre Active Monitoring
+
+### Semana 15 - 6 de Janeiro
+
+- Investigação sobre estrategias que tenham como base a proposta da ETSI sobre Active Monitoring
+
+### Semana 16 -  13 de Janeiro
+
+- Finalização das escritas das secções sobre monitorização da tese e Revisão com o Orientador
+- Escrita da Work Proposal
